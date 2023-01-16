@@ -1,5 +1,5 @@
 {
-  "name": "Haruka-Md",
+  "name": "Zora-Md",
   "version": "9.0.1",
   "description": "whatsapp tob with multi device.",
   "main": "haruka.js",
@@ -15,7 +15,7 @@
     "2022",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Zora",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "^4.4.0",
