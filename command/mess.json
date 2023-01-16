@@ -1,8 +1,8 @@
 {
     "wait": "_wait!!_",
     "error": {
-        "Iv": "",
-        "api": ""
+        "Iv": "error",
+        "api": "error"
     },
     "OnlyGrup": "This command can only be used in groups",
     "OnlyPM": "This command can only be used in private messages",
